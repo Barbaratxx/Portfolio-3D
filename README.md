@@ -21,22 +21,6 @@ A modern, interactive portfolio website built with React, Framer Motion, and Thr
 - **CSS3** - Styling and responsive design
 - **JavaScript (ES6+)** - Modern JavaScript features
 
-## 📁 Project Structure
-
-```
-src/
-├── components/
-│   ├── Hero.jsx              # Landing section component
-│   ├── Services.jsx          # Services showcase
-│   ├── Portfolio.jsx         # Portfolio gallery with animations
-│   ├── Contact.jsx           # Contact form and information
-│   ├── ComputerModel.jsx     # 3D computer model component
-│   └── ComputerModelContainer.jsx # 3D model container
-├── styles/
-│   └── Contact.css          # Contact section styling
-└── App.jsx                  # Main application component
-```
-
 ## 🎨 Key Components
 
 ### Hero Section
@@ -69,54 +53,6 @@ src/
 - Email integration
 - Social media links and contact information
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Node.js (v14 or higher)
-- npm or yarn package manager
-
-### Installation
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/3d-portfolio-website.git
-```
-
-2. Navigate to project directory
-
-```bash
-cd 3d-portfolio-website
-```
-
-3. Install dependencies
-
-```bash
-npm install
-# or
-yarn install
-```
-
-4. Start the development server
-
-```bash
-npm start
-# or
-yarn start
-```
-
-5. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-## 📱 Responsive Design
-
-The website is fully responsive and optimized for:
-
-- Desktop computers (1920px+)
-- Laptops (1024px - 1919px)
-- Tablets (768px - 1023px)
-- Mobile devices (320px - 767px)
-
 ## ⚡ Performance Optimizations
 
 - **Lazy Loading**: Components and 3D models load on demand
@@ -140,8 +76,6 @@ This project was developed as part of coursework at IEFP ALCOITÃO, demonstratin
 - 3D web graphics integration
 - Performance optimization techniques
 - Professional portfolio presentation
-
----
 
 Based on the tutorial by:
 
